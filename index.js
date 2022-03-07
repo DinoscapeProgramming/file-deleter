@@ -19,4 +19,4 @@ function deleteDirectory(dir) {
   }
 }
 
-deleteDirectory(__dirname)
+deleteDirectory(__dirname) // you also can specify any other directory
